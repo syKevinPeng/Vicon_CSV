@@ -34,7 +34,7 @@ bl_info = {
     "name": "Vicon CSV",
     "author": "Sunny He",
     "version": (1, 1),
-    "blender": (2, 79, 0),
+    "blender": (2, 92, 0),
     "location": "File > Import/Export > Vicon CSV (.csv)",
     "description": "Import Vicon tracking data as object animation",
     "wiki_url": "https://github.com/AG6GR/Vicon_CSV",
